@@ -53,6 +53,5 @@ jobs:
           push: true
           tags:
             evertonluiz00/conversao-temperatura:v${{github.run_number}}
-            evertonluiz00/conversao-temperatura:latest
       
       
